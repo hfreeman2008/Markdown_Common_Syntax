@@ -221,6 +221,24 @@ https://www.cnblogs.com/remember-forget/p/8134849.html
 猪八戒|20211|96
 
 
+---
+
+## 背景色
+在markdown语法里，本身也是没有背景色这样一个选项的。所以，就需要用内置HTML的形式。
+借助 table, tr, td 等表格标签的 bgcolor 属性来实现背景色的功能。
+
+- 语法：
+
+```java
+<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>
+<table><tr><td bgcolor=green>背景色是：green</td></tr></table>
+```
+
+- 显示效果：
+
+![背景色是orange](背景色是orange.png)
+
+![背景色是green](背景色是green.png)
 
 
 ---
