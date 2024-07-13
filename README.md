@@ -21,6 +21,7 @@ markdown常用语法
 ---
 
 ## 分类列表显示
+
 - 语法：
 
 ```java
@@ -73,6 +74,7 @@ markdown常用语法
 
 
 1.2 代码块可以用三个反引号(```)包围起来,指定java语言类型
+
 ![三个反引号](三个反引号.png)
 
 
@@ -160,6 +162,7 @@ _这里是文字02_
 
 
 <img src="flower_000.png">
+
 <img src="rain.png" alt="flower_000图片alt" title="鼠标放在flower_000图片上显示的title">
 
 [![我的github主页](我的github主页.png)](https://github.com/hfreeman2008)
@@ -169,6 +172,7 @@ _这里是文字02_
 ## 链接语法
 
 - 语法：
+
 ```java
 <https://github.com/hfreeman2008>
 
@@ -280,7 +284,6 @@ https://www.cnblogs.com/remember-forget/p/8134849.html
 ![颜色码对照表](颜色码对照表.png)
 
 ---
-
 
 
 # 参考资料
