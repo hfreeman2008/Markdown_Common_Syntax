@@ -147,6 +147,7 @@ _这里是文字02_
 [文本替换链接](链接)
 [文本替换链接到baidu](https://www.baidu.com/)
 [百度一下，你就知道](baidu.com "鼠标停在上面会显示的提示内容")
+<a href="https://www.baidu.com/" title="鼠标停在上面会显示的提示内容">baidu显示的title文体</a>
 ```
 
 - 显示效果：
@@ -154,6 +155,7 @@ _这里是文字02_
 [文本替换链接到baidu](https://www.baidu.com/)
 
 
+<a href="https://www.baidu.com/" title="鼠标停在上面会显示的提示内容">baidu显示的title文体</a>
 
 ---
 
