@@ -62,27 +62,37 @@ markdown常用语法
 
 - 语法：
 
-java源代码，注意，删除前面的//
+在代码块的每一行前面添加至少4个空格或一个制表符（Tab）。
 
-```java
-//```java
-//java源码显示效果
-//public boolean isSupportFunction(){
-//    retrun true;
-//}
-//```
-```
+1.1 java语言，每一行前加一个Tab键
+
+    java源码显示效果
+    public boolean isSupportFunction(){
+        retrun true;
+    }
+
+
+1.2 代码块可以用三个反引号(```)包围起来,指定java语言类型
+![三个反引号](三个反引号.png)
 
 
 - 显示效果：
 
-```java
-//java源码显示效果
-//public boolean isSupportFunction(){
-//    retrun true;
-//}
-```
+2.1 java 每一行前加一个Tab键
 
+    java源码显示效果
+    public boolean isSupportFunction(){
+        retrun true;
+    }
+
+
+2.2 代码块可以用三个反引号(```)包围起来,指定java语言类型
+
+```java
+public boolean isSupportFunction(){
+    retrun true;
+}
+```
 
 
 ---
