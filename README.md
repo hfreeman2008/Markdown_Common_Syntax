@@ -182,6 +182,8 @@ _这里是文字02_
 <img src="rain.png" alt="flower_000图片alt" title="鼠标放在flower_000图片上显示的title">
 
 [![我的github主页](我的github主页.png)](https://github.com/hfreeman2008)
+
+<img src="我的github主页.png" alt="描述文字" width="200" height="300">
 ```
 
 - 显示效果：
@@ -195,6 +197,8 @@ _这里是文字02_
 <img src="rain.png" alt="flower_000图片alt" title="鼠标放在flower_000图片上显示的title">
 
 [![我的github主页](我的github主页.png)](https://github.com/hfreeman2008)
+
+<img src="我的github主页.png" alt="描述文字" width="200" height="300">
 
 ---
 
