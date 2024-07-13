@@ -185,6 +185,8 @@ _这里是文字02_
 [![我的github主页](我的github主页.png)](https://github.com/hfreeman2008)
 
 <img src="我的github主页.png" alt="描述文字" width="200" height="300">
+
+html <div align="center"> <img src="我的github主页.png" /> </div>
 ```
 
 - 显示效果：
@@ -200,6 +202,9 @@ _这里是文字02_
 [![我的github主页](我的github主页.png)](https://github.com/hfreeman2008)
 
 <img src="我的github主页.png" alt="描述文字" width="200" height="300">
+
+
+html <div align="center"> <img src="我的github主页.png" /> </div>
 
 ---
 
