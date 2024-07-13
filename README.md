@@ -96,7 +96,7 @@ markdown常用语法
 
 ---
 
-## 显示图片
+## 图片
 
 - 语法：
 
@@ -104,8 +104,9 @@ markdown常用语法
 ![图片解释性内容](图片链接)
 ![图片解释性内容](图片路径)
 
+<img src="图片链接">
 <img src="flower_000.png">
-
+<img src="flower_000.png" alt="flower_000图片alt" title="鼠标放在flower_000图片上显示的title">
 ```
 
 - 显示效果：
@@ -113,7 +114,7 @@ markdown常用语法
 显示指定路径的图片：
 
 <img src="flower_000.png">
-
+<img src="flower_000.png" alt="flower_000图片alt" title="鼠标放在flower_000图片上显示的title">
 ---
 
 
