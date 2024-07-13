@@ -145,12 +145,12 @@ _这里是文字02_
 - 语法：
 ```java
 [文本替换链接](链接)
-[文本替换链接到baidu](www.baidu.com)
+[文本替换链接到baidu](https://www.baidu.com/)
 ```
 
 - 显示效果：
 
-[文本替换链接到baidu](www.baidu.com)
+[文本替换链接到baidu](https://www.baidu.com/)
 
 ---
 
