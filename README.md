@@ -186,7 +186,9 @@ _这里是文字02_
 
 <img src="我的github主页.png" alt="描述文字" width="200" height="300">
 
-html <div align="center"> <img src="我的github主页.png" /> </div>
+<div align="center"> <img src="我的github主页.png" /> </div>
+
+<div align="center"> <img src="我的github主页.png" width="200" height="300"/> </div>
 ```
 
 - 显示效果：
@@ -204,7 +206,9 @@ html <div align="center"> <img src="我的github主页.png" /> </div>
 <img src="我的github主页.png" alt="描述文字" width="200" height="300">
 
 
-html <div align="center"> <img src="我的github主页.png" /> </div>
+<div align="center"> <img src="我的github主页.png" /> </div>
+
+<div align="center"> <img src="我的github主页.png" width="200" height="300"/> </div>
 
 ---
 
