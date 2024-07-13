@@ -58,21 +58,19 @@ markdown常用语法
 
 ---
 
-## 代码
+## 代码块
 
 - 语法：
 
 java源代码，注意，删除前面的//
 
 ```java
-
 //```java
 //java源码显示效果
 //public boolean isSupportFunction(){
 //    retrun true;
 //}
 //```
-
 ```
 
 
@@ -84,6 +82,8 @@ java源代码，注意，删除前面的//
 //    retrun true;
 //}
 ```
+
+
 
 ---
 
