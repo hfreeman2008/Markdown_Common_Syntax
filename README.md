@@ -300,11 +300,14 @@ _这里是文字02_
 
 ```java
 <font face='黑体' color=#ff0000 size=10>我是正文,字体size为10</font>
+<span style="color:red;">红色字体</span>
 ```
 
 - 显示效果：
 
 ![设计字体字号和颜色](设计字体字号和颜色.png)
+
+<span style="color:red;">红色字体</span>
 
 
 备注：
