@@ -323,31 +323,9 @@ https://blog.csdn.net/xdnxl/article/details/129518943
 
 ---
 
-<div style="text-align: right;">
-这段文本将会显示在右侧。
-</div>
-
-<p align="left">诶嘿</p>
-
-<p align="right">诶嘿</p>
-
-<p align="right">[<font face='黑体' color=#ff0000 size=20>跳转到文章开始</font>](#markdown-common-syntax)</p>
 
 
-<div style="text-align: right;">
-[<font face='黑体' color=#ff0000 size=20>跳转到文章开始</font>](#markdown-common-syntax)
-</div>
-
-[<font face='黑体' color=#ff0000 size=20 align=right>跳转到文章开始</font>](#markdown-common-syntax)
 
 [<font face='黑体' color=#ff0000 size=20 >跳转到文章开始</font>](#markdown-common-syntax)
 
-<div style="text-align: right;">
-[跳转到文章开始](https://www.baidu.com/)
-</div>
-
-
-<center>
-诶嘿
-</center>
 
