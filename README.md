@@ -107,6 +107,8 @@ markdown常用语法
 <img src="图片链接">
 <img src="flower_000.png">
 <img src="flower_000.png" alt="flower_000图片alt" title="鼠标放在flower_000图片上显示的title">
+
+[![我的github主页](我的github主页.png)](https://github.com/hfreeman2008)
 ```
 
 - 显示效果：
@@ -116,6 +118,8 @@ markdown常用语法
 <img src="flower_000.png">
 <img src="flower_000.png" alt="flower_000图片alt" title="鼠标放在flower_000图片上显示的title">
 
+
+[![我的github主页](我的github主页.png)](https://github.com/hfreeman2008)
 ---
 
 
