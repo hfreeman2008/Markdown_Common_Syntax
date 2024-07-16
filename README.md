@@ -1,6 +1,8 @@
 # Markdown Common Syntax
 markdown常用语法
 
+![美女_01](美女_01.png)
+
 ---
 
 ## 分级标题显示
@@ -347,4 +349,6 @@ https://blog.csdn.net/xdnxl/article/details/129518943
 
 [<font face='黑体' color=#ff0000 size=40 >跳转到文章开始</font>](#markdown-common-syntax)
 
+---
 
+![妹子_01](妹子_01.png)
